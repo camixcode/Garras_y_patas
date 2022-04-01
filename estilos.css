@@ -1,3 +1,9 @@
+
+#nombrePerfil{
+
+    text-align: center;
+};
+
 #imagenPerfil_izquierda{
     float: left;
     vertical-align: middle;
