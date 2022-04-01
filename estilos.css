@@ -16,6 +16,12 @@
     float: left;
 }
 
+#bio{
+
+    padding-bottom: 30px;
+}
+
+
 #imagenPerfil_izquierda{
     float: left;
     vertical-align: middle;
